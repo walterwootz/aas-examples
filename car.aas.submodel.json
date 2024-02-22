@@ -35,6 +35,24 @@
             "value": "20.0",
             "valueType": "float",
             "idShort": "Temperature"
+        },
+        {
+            "modelType": {
+                "name": "Property"
+            },
+            "kind": "Instance",
+            "semanticId": {
+                "keys": [
+                    {
+                        "idType": "Iri",
+                        "type": "GlobalReference",
+                        "value": "Car001"
+                    }
+                ]
+            },
+            "value": "30.0",
+            "valueType": "float",
+            "idShort": "Oxygen"
         }
     ]
 }
